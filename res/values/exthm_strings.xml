@@ -61,4 +61,8 @@
     <!-- Three-fingers-swipe to screenshot -->
     <string name="three_finger_gesture">Swipe to screenshot</string>
     <string name="three_finger_gesture_summary">Swipe three fingers to take screenshot</string>
+    
+    <!-- exTHmUI LOGO -->
+    <string name="enable_exthmui_logo">Settings homepage exTHmUI LOGO</string>
+    <string name="enable_exthmui_logo_summary">NOTE: restart settings app to see effect</string>
 </resources>

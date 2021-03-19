@@ -58,4 +58,8 @@
     <!-- Three-fingers-swipe to screenshot -->
     <string name="three_finger_gesture">三指截屏</string>
     <string name="three_finger_gesture_summary">通过在屏幕上滑动三指以进行截屏</string>
+
+    <!-- exTHmUI LOGO -->
+    <string name="enable_exthmui_logo">设置主页LOGO</string>
+    <string name="enable_exthmui_logo_summary">注意:设置重启后应用</string>
 </resources>
